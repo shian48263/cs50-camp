@@ -1,6 +1,6 @@
 # cs50-camp
 
-## [簡介](https://www.facebook.com/groups/556507217856457/permalink/559564454217400)（By [胡立](https://www.facebook.com/profile.php?id=100000221410594) @ [Huli's Blog](http://huli.logdown.com)）
+## [簡介](https://www.facebook.com/groups/556507217856457/permalink/559564454217400)（[胡立](https://www.facebook.com/profile.php?id=100000221410594) @ [Huli's Blog](http://huli.logdown.com)）
 
 * 這個社團主要是討論與 cs50 有關的任何事情
 * 若是對 cs50 不熟悉的，可參考這篇心得：[http://huli.logdown.com/posts/687027-cs50-programming-course-like-ocean](http://huli.logdown.com/posts/687027-cs50-programming-course-like-ocean)
@@ -31,5 +31,5 @@
 
 ## [GitHub](https://github.com/shian48263/cs50-camp)（本頁）
 
-* 若您對本頁有任何建議，歡迎建立 Issue 來公開討論。
+* 若您對本頁的資訊有任何建議，歡迎建立 Issue 來公開討論。
 * 若您想提供 PR 來更新／更正本頁的資訊，也非常歡迎提交。
