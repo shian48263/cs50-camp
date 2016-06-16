@@ -16,7 +16,7 @@
 ## [Slack](https://cs50-camp.slack.com)（我有問題｜我想幫忙解題｜我想參加活動）
 
 * 主旨：**形成一個互助的中文社群，方便大家問問題、解題，加快學習進度！**
-* 未註冊：由此註冊 cs50-camp @ Slack：[http://cs50-camp.herokuapp.com](http://cs50-camp.herokuapp.com)（**必要**）
+* 未註冊：由此註冊 cs50-camp @ Slack：[http://cs50-camp-slack.herokuapp.com](http://cs50-camp-slack.herokuapp.com)（**必要**）
 * 已註冊：由此進入 cs50-camp @ Slack：[https://cs50-camp.slack.com](https://cs50-camp.slack.com)
 * 備註：尚未註冊者無法進入 cs50-camp @ Slack 且無法瀏覽任何訊息。請註冊。
 
